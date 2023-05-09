@@ -25,7 +25,7 @@ The dataset likely provides economic indicators for each of these countries over
 **Government debt (in % of GDP):** The percentage of a country's Gross Domestic Product that is owed to creditors by the government.<br>
 **Country:** The name of the country to which the data point belongs.<br>
 
-Here is the [Dataset]()<br>
-Want to work on dataset then please refer- [Kaggle link]()<br>
-If you're interested in learning how I created this dataset, you can check out my [Notebook]() for more information.
+Here is the [Dataset](https://github.com/khushiyadav2022/Created-dataset-of-Top-5-countries-GDP-information/blob/baadb33b5f0e4c836a5727da73fec5596f3f53f6/Top%20countries%20GDP%20info.csv)<br>
+Want to work on dataset then please refer- [Kaggle link](https://www.kaggle.com/datasets/khushiyadav2022/top-countries-gdp-information)<br>
+If you're interested in learning how I created this dataset, you can check out my [Notebook](https://github.com/khushiyadav2022/Created-dataset-of-Top-5-countries-GDP-information/blob/baadb33b5f0e4c836a5727da73fec5596f3f53f6/top-countries-gdp-info%20(1).ipynb) for more information.
 
